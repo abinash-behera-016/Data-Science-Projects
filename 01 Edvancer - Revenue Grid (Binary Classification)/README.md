@@ -8,9 +8,9 @@ This project aims to predict the income level of individuals into two categories
 ## Dataset Description
 The dataset contains several attributes related to the individuals' demographic and financial details. Here is a brief overview of the columns in the dataset:
 
-- `REF_NO`: numeric: Reference number for the individual
-- `children`: character: Number of children
-- `age_band`: character: Age band of the individual
+- `REF_NO`: _numeric_: Reference number for the individual
+- `children`: _character_: Number of children
+- `age_band`: _character_: Age band of the individual
 - `status`: Marital status
 - `occupation`: Occupation of the individual
 - `occupation_partner`: Occupation of the partner
