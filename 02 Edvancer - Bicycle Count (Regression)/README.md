@@ -1,6 +1,6 @@
 This project was one of the assignments given by our instructor at Edvancer after completion of the linear regression module.
 
-# Project Title: Predicting Bicycle Rental Counts
+# Predicting Bicycle Rental Counts
 
 ## Project Overview
 The focus of the project is to predict the number of bicycles rented on a particular day. The regression models used in this project take various weather, time and calender information to predict the number of bicycle rentals.
