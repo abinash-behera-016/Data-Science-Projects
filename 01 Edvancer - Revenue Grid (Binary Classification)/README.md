@@ -1,7 +1,7 @@
 This was a project given by our instructor at Edavncer during the course period while we were studying Binary Logistic Regression.
 
 
-# Project Title: Predicting Income Level
+# Predicting Income Level
 
 ## Project Overview
 This project aims to predict the income level of individuals into two categories: more than $50k and less than $50k. The classification models built in this project uses various demographic and financial features to make predictions.
