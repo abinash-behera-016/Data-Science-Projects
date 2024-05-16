@@ -39,7 +39,7 @@ Here are the column descriptions for the "automobile" dataset:
 
 ## Objectives
 - To develop predictive models that accurately classify automobiles into seven risk levels based on their physical, technical and financial information.
-- To identify key factors that significantly influence an individual's income level.
+- To identify key factors that significantly influence an automobile's insurance risk level.
 
 ## Tools and Technologies Used
 - Programming Language/Platform: R, RStudio
