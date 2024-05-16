@@ -50,9 +50,9 @@ The dataset contains several attributes related to the individuals' demographic 
 - Libraries and Packages: dplyr, ggplot2, cvTools, randomForest, car, caret, pROC
 
 ## Model Development
-- Data Preparation: The columns age_band, status, occupation, occupation_partner, home_status, family_income, TVArea and a few others were of chr type,so converted them into dummies. Further, converted the target variable to 0 and 1. Then split the whole data into train and test. 
-- Logistic Regression: First, I used binary logistic regression to build the predictive model. Removed variables based on high Variation Inflation Factor (vif) values. Finalized my model and predicted for the test data.
-- Random Forest: Then, used random forest algorithm with hyper parameter tuning to arrive at the best parameter values. Then built the model and performed prediction on test data.
+- __Data Preparation__: The columns age_band, status, occupation, occupation_partner, home_status, family_income, TVArea and a few others were of chr type,so converted them into dummies. Further, converted the target variable to 0 and 1. Then split the whole data into train and test. 
+- __Logistic Regression__: First, I used binary logistic regression to build the predictive model. Removed variables based on high Variation Inflation Factor (vif) values. Finalized my model and predicted for the test data.
+- __Random Forest__: Then, used random forest algorithm with hyper parameter tuning to arrive at the best parameter values. Then built the model and performed prediction on test data.
 
 ## Conclusions
 The logistic regression algorithm predicted the target variable with an accuracy of 93% which was further enhanced by random forest with an accuracy of 96%.
