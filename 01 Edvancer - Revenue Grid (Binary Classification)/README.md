@@ -1,7 +1,4 @@
 This was a project given by our instructor at Edavncer during the course period while we were studying Binary Logistic Regression.
-Creating a README file is a crucial step for documentation and making your projects understandable to other users or stakeholders who might view your GitHub repository. Below is a suggested template for your README file that outlines your data science project focused on predicting the 'Revenue Grid' or income level. You can fill in the details or modify it as per your project's specifics.
-
----
 
 # Project Title: Predicting Income Level
 
