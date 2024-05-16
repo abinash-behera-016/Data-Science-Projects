@@ -1,6 +1,6 @@
 This was a project given by our instructor at Edavncer as an ssignment during the course period while we were studying Linear Regression.
 
-# Project Title: Predicting Income Level
+# Predicting Income Level
 
 ## Project Overview
 This project aims to predict the outcome of a payment, whether it was successful or not. 
