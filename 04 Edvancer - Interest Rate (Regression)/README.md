@@ -1,5 +1,6 @@
 This dataset was provided by our instructor during our course period. It was one of the assignments for us during the regression module.
 
+# Predicting Interest Rate
 ## Project Overview
 
 This project aims to predict the interest rate (`Interest.Rate`) for loans based on various factors related to the loan applicant and the loan details. The prediction model can help in assessing loan affordability and risk associated with different loan applications.
