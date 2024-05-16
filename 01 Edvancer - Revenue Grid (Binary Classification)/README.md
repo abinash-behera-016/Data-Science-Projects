@@ -61,4 +61,4 @@ The dataset contains several attributes related to the individuals' demographic 
 The logistic regression algorithm predicted the target variable with an accuracy of 93% which was further enhanced by random forest with an accuracy of 96%.
 
 ## How to Run the Project
-You'll need RStudio and the above mentioned packages installed. I've also provided the R script files with comment on each code line so it should be easy to follow along.
+You'll need RStudio and the above mentioned packages installed. I've also provided the dataset used, R script files with comment on each code line so it should be easy to follow along.
