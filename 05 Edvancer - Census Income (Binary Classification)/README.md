@@ -1,6 +1,6 @@
 This was a project given by our instructor at Edavncer during the course period while we were studying Binary Logistic Regression.
 
-# Project Title: Income Level Prediction
+# Income Level Prediction
 
 ## Project Overview
 
