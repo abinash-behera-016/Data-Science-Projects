@@ -16,7 +16,7 @@ Welcome to my Data Science Portfolio on GitHub! This repository contains a varie
 Feel free to explore the projects and reach out if you have questions or would like to collaborate!
 
 ## Contact
-- [Click here to visit my LinkedIn]((https://www.linkedin.com/in/abinash-behera-1b7127112/))
+- [Click here to visit my LinkedIn](https://www.linkedin.com/in/abinash-behera-1b7127112/)
 - [Click here to mail me](mailto:abinashb206@gmail.com)
 
 Enjoy exploring my projects, and I appreciate any feedback or contributions to improve my work!
