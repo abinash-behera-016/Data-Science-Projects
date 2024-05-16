@@ -3,7 +3,7 @@ This was a project given by our instructor at Edavncer during the course period 
 # Project Title: Predicting Income Level
 
 ## Project Overview
-This project aims to predict the income level of individuals into two categories: more than $50k and less than $50k. The classification model built in this project uses various demographic and financial features to make predictions.
+This project aims to predict the income level of individuals into two categories: more than $50k and less than $50k. The classification models built in this project uses various demographic and financial features to make predictions.
 
 ## Dataset Description
 The dataset contains several attributes related to the individuals' demographic and financial details. Here is a brief overview of the columns in the dataset:
