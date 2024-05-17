@@ -10,7 +10,7 @@ Welcome to my Data Science Portfolio on GitHub! This repository contains a varie
 - Random Forest
 - XGBoost
 - Neural Networks
-- Packages for modelling: tree, rpart, randomForest, xgboost, nnet, neuralnet, scikit-learn, keras, tensoflow
+- Packages for modelling: tree, rpart, randomForest, xgboost, nnet, neuralnet, tseries, forecast, scikit-learn, keras, tensoflow
 - Packages for visualization: ggplot2, matplotlib, seaborn
 
 Feel free to explore the projects and reach out if you have questions or would like to collaborate!
@@ -20,3 +20,5 @@ Feel free to explore the projects and reach out if you have questions or would l
 - [Click here to mail me](mailto:abinashb206@gmail.com)
 
 Enjoy exploring my projects, and I appreciate any feedback or contributions to improve my work!
+
+`Note`: I have often used a function createDummies, given by our instructor during the course, to create dummies out of character columns. I always use this as the function can take a threshold frequncy values below which an observation won't get it's own dummy column. I have provided the code and usage guidance in a separate R script you can find above. Another package fastDummies available on CRAN works great too but does't take threshold frequency as an input, as a result you might end up with loads of new dummies corresponding to observations that rarely occur in a column.
