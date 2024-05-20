@@ -15,7 +15,7 @@ Here are the column descriptions for the "automobile" dataset:
 - `make`: _character_: Manufacturer of the automobile.
 - `fuel_type`: _character_: Type of fuel used by the automobile (e.g., gas, diesel).
 - `aspiration`: _character_: Type of aspiration used in the automobile (e.g., std, turbo).
-- `num_of_doors`:  _character_:Number of doors on the automobile.
+- `num_of_doors`:  _character_: Number of doors on the automobile.
 - `body_style`: _character_: Body style of the automobile.
 - `drive_wheels`: _character_: Drive wheels configuration (e.g., fwd, rwd, 4wd).
 - `engine_location`: _character_: Location of the engine in the automobile (e.g., front, rear).
