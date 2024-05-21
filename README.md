@@ -17,7 +17,7 @@ Feel free to explore the projects and reach out if you have questions or would l
 
 ## Contact
 - Click [here](https://www.linkedin.com/in/abinash-behera-1b7127112/)  to visit my LinkedIn
-- Click [here](mailto:abinashb206@gmail.com)  to mail me
+- Click [here](mailto:abinashb206@gmail.com)  to mail me 
 
 Enjoy exploring my projects, and I appreciate any feedback or contributions to improve my work!
 
